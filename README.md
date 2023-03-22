@@ -20,7 +20,7 @@ A modern, sleek, and responsive flashcards web application designed to help user
 ### Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/flashcards-app.git
+git clone https://github.com/joseph-crowley/flashcards-app.git
 cd flashcards-app
 ```
 
